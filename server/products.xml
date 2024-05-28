@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Ak-47</name>
+        <description>Assault-Rifle</description>
+        <price>200.0</price>
+    </product>
+    <product>
+        <name>M249</name>
+        <description>Light-Machine Gun</description>
+        <price>4087.0</price>
+    </product>
+    <product>
+        <name>P90</name>
+        <description>Sub Machine Gun</description>
+        <price>2350.0</price>
+    </product>
+    <product>
+        <name>P2000</name>
+        <description>Semi-automatic Pistol</description>
+        <price>560.47</price>
+    </product>
+</products>
